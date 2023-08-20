@@ -19,3 +19,5 @@ A Python script that scrapes popular album titles and artist names from Rate You
    pip install selenium beautifulsoup4
 
 3. Make sure you have Chrome installed, and get the relevant Chrome Driver that matches your browser. (If you're running on v116, then get the Chrome Driver for v116) Store this .exe in your directory where you cloned the project.
+
+4. Run the .py file, and enjoy!
